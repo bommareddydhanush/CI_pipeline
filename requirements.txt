@@ -1,7 +1,8 @@
 numpy
 pandas
 flask
-sklearn
-joblib
-os
-logging
+scikit-learn
+requests
+matplotlib
+seaborn
+scipy
